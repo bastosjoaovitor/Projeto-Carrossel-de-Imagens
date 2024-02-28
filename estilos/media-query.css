@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width: 0px) and (max-width: 767px) {
+@media screen and (min-width: 1px) and (max-width: 767px) {
 
     .galeria > img {
         margin: 4%;
@@ -9,8 +9,9 @@
     }
 }
 
-@media screen and (aspect-ratio: 21/9) {
-    body {
-        background-color: yellow;
+@media screen and (max-width: 767px) and (orientation: landscape) {
+
+    .carrossel {
+        max-width: 44vw;
     }
 }

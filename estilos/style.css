@@ -1,5 +1,3 @@
-/* Nível Intermediário - Galeria de Imagens: Crie uma galeria de imagens onde cada imagem tem uma largura fixa, mas a altura deve ser ajustada proporcionalmente. As imagens devem ser alinhadas em uma linha e envolvidas conforme necessário. Use Flexbox para alcançar isso. */
-
 @charset "UTF-8";
 
 html, body {
