@@ -1,23 +1,37 @@
-# Carrossel de Imagens :framed_picture:
+# Image Carousel Project
 
-Este é o meu primeiro projeto, um carrossel de imagens.
+Welcome to the Image Carousel Project repository! This project consists of a responsive website that displays an image carousel and a photo gallery.
 
-## Sobre o Projeto :memo:
+## Other Languages
 
-O Site é um projeto que apresenta um carrossel de imagens e a galeria com as imagens usadas. As imagens no carrossel são exibidas uma de cada vez e a imagem exibida muda automaticamente a cada 1,8 segundos. Este projeto foi uma excelente oportunidade para aprimorar minhas habilidades em Flexbox e Media Queries.
+- [Versão em Português](README_pt-BR.md)
 
-## Código do Projeto :scroll:
+## Technologies Used
 
-O código do projeto é dividido em três partes principais: HTML, CSS e JavaScript.
+- **HTML**: The project utilizes HTML to structure the content of the web page, including header, body, image carousel, photo gallery, and footer.
 
-- **HTML**: O código HTML define a estrutura do carrossel de imagens e da galeria de imagens. Cada imagem é representada por um elemento `<img>` dentro de um contêiner `<div>`.
+- **CSS**: The CSS files (`style.css` and `media-query.css`) provide styles for the HTML elements, ensuring visually appealing appearance and consistent user experience across different devices and screen sizes. It uses media queries to make the site responsive.
 
-- **CSS**: O código CSS define a aparência do carrossel de imagens, da galeria de imagens e do layout geral da página. Ele usa várias propriedades CSS, como `display`, `height`, `width`, `border-radius`, `overflow`, `transition` e `transform`, para alcançar o efeito desejado.
+- **JavaScript**: JavaScript is used to implement the functionality of the image carousel. The JavaScript code controls the transition of images in the carousel, allowing them to slide automatically. It also dynamically adjusts the width of the carousel based on the browser window size.
 
-- **JavaScript**: O código JavaScript cria a funcionalidade do carrossel de imagens. Ele usa uma função que passa a imagem exibida no carrossel para a esquerda a cada 1,8 segundos e mostra a próxima.
+## Project Structure
 
-## Link do Projeto :globe_with_meridians:
+The project is structured into three main components:
 
-Você pode visualizar o projeto [clicando aqui](https://bastosjoaovitor.github.io/Projeto-Carrossel-de-Imagens/carrossel.html) ou acessando o link abaixo.
+1. **HTML**: The HTML file (`carrossel.html`) defines the structure of the web page.
 
-"https://bastosjoaovitor.github.io/Projeto-Carrossel-de-Imagens/carrossel.html"
+2. **CSS**: The CSS files (`style.css` and `media-query.css`) provide styles for the HTML elements.
+
+3. **JavaScript**: The JavaScript file (`script.js`) controls the dynamic behavior of the image carousel.
+
+## Contributions
+
+Feel free to contribute improvements to this project. All contributions are welcome and will be considered to enhance the user experience and functionality.
+
+## View the Project
+
+To view the project in action, visit the project link hosted on GitHub Pages: [Image Carousel Project](https://bastosjoaovitor.github.io/Projeto-Carrossel-de-Imagens/carrossel.html).
+
+## Author
+
+This website was created by João Vitor Bastos as part of his personal projects.
